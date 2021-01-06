@@ -1,15 +1,17 @@
-# Jeu du pendu
+# Jeu du pendu à partir de Create React App
 
-Ce projet est un jeu de pendu construit avec React.  Il m'a servi à apprendre les bases de React.
+## Ce jeu est la solution du tutoriel issue de `OpenClassRoom`
 
-## Technologies
+Dans le but d'approfondir mes connaissances en React, j'ai pu réaliser à l'aide de Google et de Ocr, le jeu du Pendu.
 
-HTML5
-CSS3
-JavaScript
-React
-React DOM
+Afin de pouvoir jouer :
 
-## Todo:
+- Suivre les étapes suivantes : 
+  - Cloner le repo `git clone`
+  - Naviguer jusqu'au dossier `pendu`
+  - Utiliser `npm install` pour installer les modules node
+  - Utiliser `npm start` pour démarrer le serveur sur `localhost:3000`
 
-Ajouter un canvas pour "dessiner" le pendu en cas d'erreur
+  ### Liens utiles
+
+[Tutoriel : Introduction à React](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664388-decouvrez-lutilite-et-les-concepts-cles-de-react).
